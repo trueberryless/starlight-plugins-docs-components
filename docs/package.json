@@ -1,15 +1,15 @@
 {
-  "name": "@trueberryless-org/starlight-plugins-docs-components-docs",
+  "name": "@trueberryless/starlight-plugins-docs-components-docs",
   "version": "0.3.4",
   "private": true,
   "description": "Documentation for the Starlight Plugins Docs Components plugin.",
   "homepage": "https://starlight-plugins-docs-components.netlify.app/",
   "bugs": {
-    "url": "https://github.com/trueberryless-org/starlight-plugins-docs-components/issues"
+    "url": "https://github.com/trueberryless/starlight-plugins-docs-components/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trueberryless-org/starlight-plugins-docs-components.git",
+    "url": "https://github.com/trueberryless/starlight-plugins-docs-components.git",
     "directory": "docs"
   },
   "license": "MIT",

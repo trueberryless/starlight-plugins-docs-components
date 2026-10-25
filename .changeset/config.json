@@ -2,7 +2,7 @@
   "$schema": "https://unpkg.com/@changesets/config@4.0.0/schema.json",
   "changelog": [
     "@changesets/changelog-github",
-    { "repo": "trueberryless-org/starlight-plugins-docs-components" }
+    { "repo": "trueberryless/starlight-plugins-docs-components" }
   ],
   "commit": false,
   "fixed": [],

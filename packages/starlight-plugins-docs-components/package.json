@@ -1,5 +1,5 @@
 {
-  "name": "@trueberryless-org/starlight-plugins-docs-components",
+  "name": "@trueberryless/starlight-plugins-docs-components",
   "version": "0.7.0",
   "description": "Starlight plugin to add a set of opinionated components and resource pages used in trueberryless-org's Starlight plugins documentations.",
   "keywords": [
@@ -15,11 +15,11 @@
   ],
   "homepage": "https://starlight-plugins-docs-components.netlify.app/",
   "bugs": {
-    "url": "https://github.com/trueberryless-org/starlight-plugins-docs-components/issues"
+    "url": "https://github.com/trueberryless/starlight-plugins-docs-components/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trueberryless-org/starlight-plugins-docs-components.git",
+    "url": "https://github.com/trueberryless/starlight-plugins-docs-components.git",
     "directory": "packages/starlight-plugins-docs-components"
   },
   "license": "MIT",
