@@ -1,15 +1,15 @@
 {
-  "name": "@trueberryless-org/starlight-plugins-docs-components-monorepo",
+  "name": "@trueberryless/starlight-plugins-docs-components-monorepo",
   "version": "0.0.0",
   "private": true,
   "description": "Starlight plugin to add a set of opinionated components and resource pages used in trueberryless-org's Starlight plugins documentations.",
-  "homepage": "https://github.com/trueberryless-org/starlight-plugins-docs-components",
+  "homepage": "https://github.com/trueberryless/starlight-plugins-docs-components",
   "bugs": {
-    "url": "https://github.com/trueberryless-org/starlight-plugins-docs-components/issues"
+    "url": "https://github.com/trueberryless/starlight-plugins-docs-components/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trueberryless-org/starlight-plugins-docs-components.git"
+    "url": "https://github.com/trueberryless/starlight-plugins-docs-components.git"
   },
   "license": "MIT",
   "author": "trueberryless <trueberryless@gmail.com> (https://felixs.dev)",
